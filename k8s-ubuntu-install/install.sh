@@ -1,7 +1,7 @@
 #!/bin/bash
 
 export DEBIAN_FRONTEND="noninteractive"
-export KUBERNETES_VERSION="1.22.6-00"
+export KUBERNETES_VERSION="1.23.8-00"
 export DPKG_LOCK_TIMOUT="-1"
 
 #############################################
